@@ -2,9 +2,9 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b> Active Directory HomeLab </b>
+- <b> Active Directory Home Lab </b>
    
- <b> Active Directory HomeLab </b>
+- <b> Siem Home Lab </b>
  
 <h2>📺 Popular YouTube Videos</h2>
 
